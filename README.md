@@ -2,4 +2,6 @@
 Geliştirilmiş YOLOv8 ile Duman ve Sis Tespiti projemde, yoğun bir literatür araştırmasının ardından ve YOLOv8 modeli hakkında derinlemesine bilgi sahibi olduktan sonra deformable konvolüsyon ve CBAM modüllerini kullanarak YOLOv8 modelini geliştirdim. Bu süreçte, YOLOv8'in mimarisini ve çalışma prensiplerini ayrıntılı bir şekilde inceleyerek, modelin duman ve sis gibi zor algılanan nesneleri daha etkin bir şekilde tespit edebilmesi için gerekli iyileştirmeleri gerçekleştirdim. Modeli eğitmek ve test etmek için kapsamlı bir veri seti oluşturup ön işleme adımlarını uyguladım. Geliştirilmiş modelin performansını değerlendirdiğimde, deformable konvolüsyon ve CBAM modüllerinin entegrasyonuyla elde edilen sonuçların, temel YOLOv8 modelinden daha üstün olduğunu gözlemledim. Bu proje, derin öğrenme ve nesne tespiti alanlarındaki bilgi ve becerilerimi önemli ölçüde artırırken, ileri seviye model iyileştirmeleri ve performans değerlendirmesi konularında da değerli deneyimler kazanmamı sağladı.
 # Deneme Videosu
 
-[![Video](https://miro.medium.com/v2/resize:fit:1358/1*YQWYPi4uoT8RcG6BPbUoVw.png)](https://www.youtube.com/watch?v=5LWgInvF0U0)
+[![Video](https://github.com/VuralBayrakli/VuralBayrakli-Gelistirilmis-YOLOv8-ile-Duman-ve-Sis-Tespiti/blob/main/sis.png)](https://www.youtube.com/watch?v=5LWgInvF0U0)
+
+[![Video](https://github.com/VuralBayrakli/VuralBayrakli-Gelistirilmis-YOLOv8-ile-Duman-ve-Sis-Tespiti/blob/main/smoke.png)](https://www.youtube.com/watch?v=iWkPI_ffYcY)
